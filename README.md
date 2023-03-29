@@ -45,41 +45,34 @@ This project also helped me practice my data flow skills. Learning how to proper
 
 
 ## Screenshots
-
-TapIn Logo:![TapInLogo](https://github.com/nmelekian/TapInFrontEnd/blob/main/TapInScreenshots/TapInLogo.png)
-
+![TapInLogo](https://github.com/nmelekian/TapInFrontEnd/blob/main/TapInScreenshots/TapInLogo.png)
 
 
 
-TapIn Main Screen: ![TapIn Main Screen](https://github.com/nmelekian/TapInFrontEnd/blob/main/TapInScreenshots/TapInMainScreen.png)
+![TapIn Main Screen](https://github.com/nmelekian/TapInFrontEnd/blob/main/TapInScreenshots/TapInMainScreen.png)
 
 
 
-
-TapIn About Page: ![TapIn About View](https://github.com/nmelekian/TapInFrontEnd/blob/main/TapInScreenshots/TapInAbout1.png)
+![TapIn About View](https://github.com/nmelekian/TapInFrontEnd/blob/main/TapInScreenshots/TapInAbout1.png)
 
 
 
 
-TapIn Admin Dashboard: ![TapIn AdminDashboard](https://github.com/nmelekian/TapInFrontEnd/blob/main/TapInScreenshots/AdminDashboard.png)
+![TapIn AdminDashboard](https://github.com/nmelekian/TapInFrontEnd/blob/main/TapInScreenshots/AdminDashboard.png)
 
 
 
-
-TapIn Teachers List: ![TapIn TeacherList](https://github.com/nmelekian/TapInFrontEnd/blob/main/TapInScreenshots/TeacherList.png)
-
+![TapIn TeacherList](https://github.com/nmelekian/TapInFrontEnd/blob/main/TapInScreenshots/TeacherList.png)
 
 
 
-TapIn Teacher Dashboard: ![TapIn TeacherDashboard](https://github.com/nmelekian/TapInFrontEnd/blob/main/TapInScreenshots/TeacherDashboard.png)
+![TapIn TeacherDashboard](https://github.com/nmelekian/TapInFrontEnd/blob/main/TapInScreenshots/TeacherDashboard.png)
 
 
 
-
-TapIn Student List: ![TapIn StudentList](https://github.com/nmelekian/TapInFrontEnd/blob/main/TapInScreenshots/StudentList.png)
-
+![TapIn StudentList](https://github.com/nmelekian/TapInFrontEnd/blob/main/TapInScreenshots/StudentList.png)
 
 
 
-TapIn Student Dashboard: ![TapIn StudentDashboard](https://github.com/nmelekian/TapInFrontEnd/blob/main/TapInScreenshots/StudentDashboard1.png)
+![TapIn StudentDashboard](https://github.com/nmelekian/TapInFrontEnd/blob/main/TapInScreenshots/StudentDashboard1.png)
 
