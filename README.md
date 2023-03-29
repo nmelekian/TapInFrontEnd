@@ -19,12 +19,12 @@ This Repository is for the front end of the app, all screen and features. The da
 - Dynamic filtering of data
 - Data cards update with input of new data
 - Working bar chart and display of information
-- 
+- Views for every screen, including admins, teachers, students and other staff
 
 
 ## Lessons Learned
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+### What did you learn while building this project? What challenges did you face and how did you overcome them?
 
 This project was truly a good learning experience for me. It helped me to practice and really develop my skills in MVVM formatting of my code, ensuring clean delineations of my view, models/data and my view models to connect all the data together. 
 #### ![MVVM Screenshot:](https://github.com/nmelekian/TapInFrontEnd/blob/main/TapInScreenshots/MVVM%20Format%20of%20Code.png)
@@ -49,23 +49,37 @@ This project also helped me practice my data flow skills. Learning how to proper
 TapIn Logo:
 ![TapInLogo](https://github.com/nmelekian/TapInFrontEnd/blob/main/TapInScreenshots/TapInLogo.png)
 
+
+
 TapIn Main Screen:
 ![TapIn Main Screen](https://github.com/nmelekian/TapInFrontEnd/blob/main/TapInScreenshots/TapInMainScreen.png)
+
+
 
 TapIn About Page:
 ![TapIn About View](https://github.com/nmelekian/TapInFrontEnd/blob/main/TapInScreenshots/TapInAbout1.png)
 
+
+
 TapIn Admin Dashboard:
 ![TapIn AdminDashboard](https://github.com/nmelekian/TapInFrontEnd/blob/main/TapInScreenshots/AdminDashboard.png)
+
+
 
 TapIn Teachers List:
 ![TapIn TeacherList](https://github.com/nmelekian/TapInFrontEnd/blob/main/TapInScreenshots/TeacherList.png)
 
+
+
 TapIn Teacher Dashboard:
 ![TapIn TeacherDashboard](https://github.com/nmelekian/TapInFrontEnd/blob/main/TapInScreenshots/TeacherDashboard.png)
 
+
+
 TapIn Student List:
 ![TapIn StudentList](https://github.com/nmelekian/TapInFrontEnd/blob/main/TapInScreenshots/StudentList.png)
+
+
 
 TapIn Student Dashboard:
 ![TapIn StudentDashboard](https://github.com/nmelekian/TapInFrontEnd/blob/main/TapInScreenshots/StudentDashboard1.png)
