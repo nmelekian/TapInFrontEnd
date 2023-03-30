@@ -45,7 +45,6 @@ This project also helped me practice my data flow skills. Learning how to proper
 
 
 ## Screenshots
-![TapInLogo](https://github.com/nmelekian/TapInFrontEnd/blob/main/TapInScreenshots/TapInLogo.png)
 
 
 
